@@ -23,7 +23,7 @@ public class AddToBasket extends Driver {
                 increaseProduct.click();
             }
         }
-    }
+    }//
 
     @Step("Sepete ekle butonuna basılır")
     public void clickBasket(){
