@@ -8,17 +8,17 @@ import static Constants.Constants.*;
 public class AddToBasket extends Driver {
 
     @Step("Üründen <key> adet ekle")
-    public void increaseProduct(String key){
-        if(key.equals("iki")){
+    public void increaseProduct(String key) {
+        if (key.equals("iki")) {
             MobileElement increaseProduct = (MobileElement) appiumDriver.findElementById("com.gittigidiyormobil:id/btnPlusVariant");
             increaseProduct.click();
-        } else if(key.equals("üç")){
-            for (int i=0;i<2;i++){
+        } else if (key.equals("üç")) {
+            for (int i = 0; i < 2; i++) {
                 MobileElement increaseProduct = (MobileElement) appiumDriver.findElementById("com.gittigidiyormobil:id/btnPlusVariant");
                 increaseProduct.click();
             }
-        }else if(key.equals("dört")){
-            for (int i=0;i<3;i++){
+        } else if (key.equals("dört")) {
+            for (int i = 0; i < 3; i++) {
                 MobileElement increaseProduct = (MobileElement) appiumDriver.findElementById("com.gittigidiyormobil:id/btnPlusVariant");
                 increaseProduct.click();
             }
@@ -26,16 +26,17 @@ public class AddToBasket extends Driver {
     }//
 
     @Step("Sepete ekle butonuna basılır")
-    public void clickBasket(){
+    public void clickBasket() {
         MobileElement clickToBasket = (MobileElement) appiumDriver.findElementById("com.gittigidiyormobil:id/btnAddBasket");
         clickToBasket.click();
     }
 
     @Step("Sepetim sekmesine gidilir")
-    public void goToBasket(){
+    public void goToBasket() {
         MobileElement goTotBasket = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.RelativeLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout[3]");
         goTotBasket.click();
     }
+}
 
 
 
@@ -49,5 +50,4 @@ public class AddToBasket extends Driver {
 
     // sepet sekmesine tıkla
     // /hierarchy/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout[3]
->>>>>>> semih
-}
+
