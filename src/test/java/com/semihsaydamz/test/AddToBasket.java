@@ -37,7 +37,6 @@ public class AddToBasket extends Driver {
         goTotBasket.click();
     }
 
-    //
     
 
     //2 yapma id :
