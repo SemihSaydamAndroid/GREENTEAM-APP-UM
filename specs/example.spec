@@ -12,16 +12,14 @@ Login Senaryosu
 * Giriş yap butonuna tıklanır
 
 
-
-
 Arama Senaryosu
 ---------------
 * Arama alanına tıklanır
 * Arama alanına "telefon" değeri girilir.
 * Açılan sekmeye tıklanır
 * Açılan ürünlerden ilk ürün seçilir
-* <AŞAĞI> yönüne kaydırma
 
-
-
-
+Fırsat ürünün Sepete ekleme
+---------------------------
+* Fırsat ürünü almak için tüm fırsatlar'a tıklanır
+* Ürüne tıklanır

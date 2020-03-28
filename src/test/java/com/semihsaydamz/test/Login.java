@@ -18,9 +18,6 @@ public class Login extends Driver{
         elementEmail.sendKeys(key);
     }
 
-    //son
-
-    //
 
     @Step("Şifre bilgisi <key> olarak girilir")
     public void password(String key) {
