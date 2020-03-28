@@ -38,7 +38,7 @@ public class AddToBasket extends Driver {
     }
 
     //
-    /
+    
 
     //2 yapma id :
     // com.gittigidiyormobil:id/btnPlusVariant
