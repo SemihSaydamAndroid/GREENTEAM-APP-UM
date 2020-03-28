@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +181,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585390143431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="semih222222">
+      <created>1585390757854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390757854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="// deneme">
+      <created>1585391280061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391280061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="// deneme">
+      <created>1585392595774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585392595774</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +210,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -197,18 +221,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="semih" />
     <MESSAGE value="semih222222" />
-    <option name="LAST_COMMIT_MESSAGE" value="semih222222" />
+    <MESSAGE value="// deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="// deneme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#Project_Settings" timestamp="1585351334364">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#Project_Settings/0.0.1680.1050@0.0.1680.1050" timestamp="1585351334364" />
-    <state x="405" y="140" key="CommitChangelistDialog2" timestamp="1585390757413">
-      <screen x="0" y="23" width="1680" height="971" />
+    <state x="405" y="127" key="CommitChangelistDialog2" timestamp="1585394496509">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="405" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585390143245" />
-    <state x="405" y="140" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585390757413" />
+    <state x="405" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585394496509" />
+    <state x="405" y="140" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585391279704" />
     <state width="1638" height="332" key="GridCell.Tab.0.bottom" timestamp="1585353218148">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
