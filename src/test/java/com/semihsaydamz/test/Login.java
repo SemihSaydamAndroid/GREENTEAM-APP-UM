@@ -18,10 +18,7 @@ public class Login extends Driver{
         elementEmail.sendKeys(key);
     }
 
-    //semih
-//sadfa
-    //
-    ///
+    //son
 
 
     @Step("Şifre bilgisi <key> olarak girilir")
