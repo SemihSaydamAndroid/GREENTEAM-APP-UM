@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="commitLasst">
+      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SemihSaydamz/specs/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/SemihSaydamz/specs/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Category.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +69,7 @@
       <command value="mvn sonar:sonar " />
     </option>
   </component>
-  <component name="RunManager" selected="Gauge Execution.Kategori senaryosu (2)">
+  <component name="RunManager" selected="Gauge Execution.Login Senaryosu (1)">
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -120,7 +127,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kategori senaryosu (4)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Kategori senaryosu (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:18" />
       <setting name="tags" value="" />
@@ -135,9 +142,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kategori senaryosu (5)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Login Senaryosu (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:18" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:6" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -150,9 +157,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kategori senaryosu" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Login Senaryosu" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:18" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:6" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -166,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gauge Execution.Kategori senaryosu (4)" />
-      <item itemvalue="Gauge Execution.Kategori senaryosu (5)" />
-      <item itemvalue="Gauge Execution.Kategori senaryosu" />
       <item itemvalue="Gauge Execution.Kategori senaryosu (1)" />
       <item itemvalue="Gauge Execution.Kategori senaryosu (2)" />
+      <item itemvalue="Gauge Execution.Kategori senaryosu (3)" />
+      <item itemvalue="Gauge Execution.Login Senaryosu" />
+      <item itemvalue="Gauge Execution.Login Senaryosu (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gauge Execution.Login Senaryosu (1)" />
+        <item itemvalue="Gauge Execution.Login Senaryosu" />
+        <item itemvalue="Gauge Execution.Kategori senaryosu (3)" />
         <item itemvalue="Gauge Execution.Kategori senaryosu (2)" />
         <item itemvalue="Gauge Execution.Kategori senaryosu (1)" />
-        <item itemvalue="Gauge Execution.Kategori senaryosu" />
-        <item itemvalue="Gauge Execution.Kategori senaryosu (5)" />
-        <item itemvalue="Gauge Execution.Kategori senaryosu (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,28 +314,28 @@
     </state>
     <state x="405" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585397964661" />
     <state x="405" y="140" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585391279704" />
-    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1585426926866">
-      <screen x="0" y="23" width="1680" height="969" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1585436360541">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585426891905" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585436360541" />
     <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1585426926866" />
     <state width="1638" height="332" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1585353218148" />
-    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1585426926864">
-      <screen x="0" y="23" width="1680" height="969" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1585436360539">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="255" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585426891903" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585436360539" />
     <state width="1638" height="255" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1585426926864" />
     <state width="1638" height="332" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1585353218148" />
-    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1585426926862">
-      <screen x="0" y="23" width="1680" height="969" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1585436360538">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="255" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585426891903" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585436360538" />
     <state width="1638" height="255" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1585426926862" />
     <state width="1638" height="332" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1585353218147" />
-    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1585426926865">
-      <screen x="0" y="23" width="1680" height="969" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1585436360540">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="255" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585426891904" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585436360540" />
     <state width="1638" height="255" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1585426926865" />
     <state width="1638" height="332" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1585353218148" />
     <state x="328" y="121" key="SettingsEditor" timestamp="1585385851644">
