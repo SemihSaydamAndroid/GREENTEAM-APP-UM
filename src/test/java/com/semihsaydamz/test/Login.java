@@ -18,6 +18,8 @@ public class Login extends Driver{
         elementEmail.sendKeys(key);
     }
 
+    //semih
+
     @Step("Şifre bilgisi <key> olarak girilir")
     public void password(String key) {
         MobileElement elementTwo = (MobileElement) appiumDriver.findElementById("password");
