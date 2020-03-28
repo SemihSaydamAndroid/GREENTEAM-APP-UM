@@ -1,0 +1,9 @@
+Created by Mac on 28.03.2020
+
+This is a concept file with following syntax for each concept.
+# Arama alanına gidilir, <search> yazılır, açılan sekmeye tıklanır
+
+* Arama alanına tıklanır
+* Arama alanına <search> değeri girilir.
+* Açılan sekmeye tıklanır
+* Açılan ürünlerden ilk ürün seçilir

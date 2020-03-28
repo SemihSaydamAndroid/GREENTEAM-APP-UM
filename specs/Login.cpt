@@ -1,0 +1,9 @@
+Created by Mac on 28.03.2020
+
+This is a concept file with following syntax for each concept.
+# Hesabım kısmına gir, <email> bilgisi yazılır , <password> bilgisi yazılır. 
+
+* Hesabım kısmına tıklanır.
+* Email bilgisi <email> olarak girilir
+* Şifre bilgisi <password> olarak girilir
+* Giriş yap butonuna tıklanır

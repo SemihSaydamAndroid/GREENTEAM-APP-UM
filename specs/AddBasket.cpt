@@ -1,0 +1,12 @@
+Created by Mac on 28.03.2020
+
+This is a concept file with following syntax for each concept.
+# Arama alanına <key> yazılır ardından gelen ürünlerden biri seçilir, <adet> sepete eklenir
+
+* Arama alanına tıklanır
+* Arama alanına <key> değeri girilir.
+* Açılan sekmeye tıklanır
+* Açılan ürünlerden ilk ürün seçilir
+* Üründen <adet> adet ekle
+* Sepete ekle butonuna basılır
+* Sepetim sekmesine gidilir

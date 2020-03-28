@@ -3,25 +3,22 @@ Semih Saydam
 
 Sorularınız için bana linkedin üzerinden ulaşabilirsiniz :)
 
-
 Login Senaryosu
 ---------------
-* Hesabım kısmına tıklanır.
-* Email bilgisi "semihsaydamz@gmail.com" olarak girilir
-* Şifre bilgisi "123qweasd" olarak girilir
-* Giriş yap butonuna tıklanır
-
-
-
+* Hesabım kısmına gir, "semihsaydamz@gmail.com" bilgisi yazılır , "123qweasd" bilgisi yazılır.
 
 Arama Senaryosu
 ---------------
-* Arama alanına tıklanır
-* Arama alanına "telefon" değeri girilir.
-* Açılan sekmeye tıklanır
-* Açılan ürünlerden ilk ürün seçilir
-* <AŞAĞI> yönüne kaydırma
+* Arama alanına gidilir, "telefon" yazılır, açılan sekmeye tıklanır
 
+Arama Senaryosundaki ürünü sepete ekle
+-------------------------------------
+* Arama alanına "telefon" yazılır ardından gelen ürünlerden biri seçilir, "üç" sepete eklenir
 
-
-
+Kategori senaryosu
+------------------
+* Kategoriler kısmına tıklanır
+* Oyun konsolu kısmına tıklanır
+* Retro konsolu kısmına tıklanır
+* Tetris kısmına tıklanır
+* Gelen listeden konsol ürünü seçilir
