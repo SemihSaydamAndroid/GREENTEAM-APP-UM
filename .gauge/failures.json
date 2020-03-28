@@ -5,7 +5,5 @@
 		"--hide-suggestion",
 		"--simple-console"
 	],
-	"FailedItems": [
-		"/Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/example.spec:14"
-	]
+	"FailedItems": []
 }

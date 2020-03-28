@@ -24,6 +24,7 @@ public class Login extends Driver{
         MobileElement elementTwo = (MobileElement) appiumDriver.findElementById("password");
         elementTwo.sendKeys(key);
 
+
     }
 
     @Step("Giriş yap butonuna tıklanır")

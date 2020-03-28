@@ -14,3 +14,11 @@ Arama Senaryosu
 Arama Senaryosundaki ürünü sepete ekle
 -------------------------------------
 * Arama alanına "telefon" yazılır ardından gelen ürünlerden biri seçilir, "üç" sepete eklenir
+
+Kategori senaryosu
+------------------
+* Kategoriler kısmına tıklanır
+* Oyun konsolu kısmına tıklanır
+* Retro konsolu kısmına tıklanır
+* Tetris kısmına tıklanır
+* Gelen listeden konsol ürünü seçilir
