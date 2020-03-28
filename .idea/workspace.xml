@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="" />
+    <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,6 +159,28 @@
       <option name="presentableId" value="Default" />
       <updated>1584961463011</updated>
     </task>
+    <task id="LOCAL-00001" summary="semih">
+      <created>1585389626416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389626416</updated>
+    </task>
+    <task id="LOCAL-00002" summary="semih">
+      <created>1585389678076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389678076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="semih222222">
+      <created>1585390143431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390143431</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,15 +194,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="semih" />
+    <MESSAGE value="semih222222" />
+    <option name="LAST_COMMIT_MESSAGE" value="semih222222" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#Project_Settings" timestamp="1585351334364">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#Project_Settings/0.0.1680.1050@0.0.1680.1050" timestamp="1585351334364" />
-    <state x="405" y="127" key="CommitChangelistDialog2" timestamp="1585389684818">
+    <state x="405" y="127" key="CommitChangelistDialog2" timestamp="1585390143245">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="405" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585389684818" />
+    <state x="405" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585390143245" />
     <state width="1638" height="332" key="GridCell.Tab.0.bottom" timestamp="1585353218148">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
