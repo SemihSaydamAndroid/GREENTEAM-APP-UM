@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="">
+    <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="commitLasst">
+      <change afterPath="$PROJECT_DIR$/specs/AddBasket.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/Search.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Constants/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/SemihSaydamz/specs/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/SemihSaydamz/specs/example.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/AddToBasket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/AddToBasket.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Concept" />
       </list>
     </option>
   </component>
@@ -55,10 +62,10 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Gauge Execution.Arama Senaryosu (1)">
+  <component name="RunManager" selected="Gauge Execution.Arama Senaryosundaki ürünü sepete ekle (1)">
     <configuration name="Arama Senaryosu (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:17" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:10" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -73,7 +80,7 @@
     </configuration>
     <configuration name="Arama Senaryosu" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:17" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:8" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -86,9 +93,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login Senaryosu (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Arama Senaryosundaki ürünü sepete ekle (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:14" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -101,9 +108,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login Senaryosu (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Arama Senaryosundaki ürünü sepete ekle" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:14" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -116,9 +123,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login Senaryosu" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="example.spec" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -133,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gauge Execution.Arama Senaryosundaki ürünü sepete ekle (1)" />
+        <item itemvalue="Gauge Execution.Arama Senaryosundaki ürünü sepete ekle" />
         <item itemvalue="Gauge Execution.Arama Senaryosu (1)" />
         <item itemvalue="Gauge Execution.Arama Senaryosu" />
-        <item itemvalue="Gauge Execution.Login Senaryosu (2)" />
-        <item itemvalue="Gauge Execution.Login Senaryosu (1)" />
-        <item itemvalue="Gauge Execution.Login Senaryosu" />
+        <item itemvalue="Gauge Execution.example.spec" />
       </list>
     </recent_temporary>
   </component>
@@ -249,34 +256,38 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#Project_Settings/0.0.1680.1050@0.0.1680.1050" timestamp="1585351334364" />
+    <state x="578" y="279" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585399411405">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585399411405" />
     <state x="405" y="127" key="CommitChangelistDialog2" timestamp="1585397964661">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="405" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585397964661" />
     <state x="405" y="140" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585391279704" />
-    <state width="1638" height="373" key="GridCell.Tab.0.bottom" timestamp="1585397955333">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="373" key="GridCell.Tab.0.bottom" timestamp="1585410806001">
+      <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state width="1638" height="373" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585397955333" />
-    <state width="1638" height="373" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1585396342652" />
+    <state width="1638" height="373" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585410409224" />
+    <state width="1638" height="373" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1585410806001" />
     <state width="1638" height="332" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1585353218148" />
-    <state width="1638" height="373" key="GridCell.Tab.0.center" timestamp="1585397955331">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="373" key="GridCell.Tab.0.center" timestamp="1585410805997">
+      <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state width="1638" height="373" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585397955331" />
-    <state width="1638" height="373" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1585396342649" />
+    <state width="1638" height="373" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585410409222" />
+    <state width="1638" height="373" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1585410805997" />
     <state width="1638" height="332" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1585353218148" />
-    <state width="1638" height="373" key="GridCell.Tab.0.left" timestamp="1585397955331">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="373" key="GridCell.Tab.0.left" timestamp="1585410805994">
+      <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state width="1638" height="373" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585397955331" />
-    <state width="1638" height="373" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1585396342646" />
+    <state width="1638" height="373" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585410409221" />
+    <state width="1638" height="373" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1585410805994" />
     <state width="1638" height="332" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1585353218147" />
-    <state width="1638" height="373" key="GridCell.Tab.0.right" timestamp="1585397955332">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="373" key="GridCell.Tab.0.right" timestamp="1585410806000">
+      <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state width="1638" height="373" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585397955332" />
-    <state width="1638" height="373" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1585396342650" />
+    <state width="1638" height="373" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585410409223" />
+    <state width="1638" height="373" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1585410806000" />
     <state width="1638" height="332" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1585353218148" />
     <state x="328" y="121" key="SettingsEditor" timestamp="1585385851644">
       <screen x="0" y="23" width="1680" height="971" />
