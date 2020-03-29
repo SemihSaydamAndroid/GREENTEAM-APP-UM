@@ -34,7 +34,7 @@ public class Driver {
 
     @AfterScenario
     public void closeDriver(){
-      //  appiumDriver.quit();
+      //  appiumDriver.quit();/
     }
 
 }
