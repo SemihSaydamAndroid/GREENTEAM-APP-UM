@@ -5,15 +5,7 @@
     <groupId>com.semihsaydamz.test</groupId>
     <artifactId>semihsaydamz</artifactId>
     <version>1.0-SNAPSHOT</version>
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
-denemeeemeememe
+
     <dependencies>
         <dependency>
             <groupId>com.thoughtworks.gauge</groupId>

@@ -9,7 +9,6 @@ Login Senaryosu
 
 Arama Senaryosu
 ---------------
-* Take a screenshot with the name "senaryo".
 * Arama alanına gidilir, "telefon" yazılır, açılan sekmeye tıklanır
 
 Arama Senaryosundaki ürünü sepete ekle
@@ -18,11 +17,17 @@ Arama Senaryosundaki ürünü sepete ekle
 
 Kategori senaryosu
 ------------------
+* Take a screenshot with the name "ilkAdım".
 * Kategoriler kısmına tıklanır
+*Take a screenshot with the name "ikinciAdım".
 * Oyun konsolu kısmına tıklanır
+*Take a screenshot with the name "üçüncüAdım".
 * Retro konsolu kısmına tıklanır
+*Take a screenshot with the name "dördüncüAdım".
 * Tetris kısmına tıklanır
+*Take a screenshot with the name "beşinciAdım".
 * Gelen listeden konsol ürünü seçilir
+*Take a screenshot with the name "senaryo Bitimi".
 
 Tüm Fırsatlar
 --------------
