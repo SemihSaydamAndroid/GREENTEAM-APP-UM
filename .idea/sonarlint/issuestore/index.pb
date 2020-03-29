@@ -77,3 +77,9 @@ B
 specs/example.spec,1/9/190dfa29f7e05b1da4037f88265c7c0ed9409eae
 d
 4src/test/java/com/semihsaydamz/test/AddToBasket.java,1/5/15bcbe065b032b86bd0e8d5fe88400137e6799d4
+@
+specs/Search.cpt,5/2/522d3636cffff54cb22f838ff6c241350e7b7cad
+?
+specs/Login.cpt,a/5/a50dd9de6b381ab8d83f7b030e4f88413dec6e0f
+g
+7src/test/java/com/semihsaydamz/test/TümFırstalar.java,7/e/7e1884d6542f7f18ab7f13723d22b69399f1ff9b

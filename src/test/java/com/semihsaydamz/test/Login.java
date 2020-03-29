@@ -1,10 +1,30 @@
 package com.semihsaydamz.test;
 
+import com.thoughtworks.gauge.Gauge;
 import com.thoughtworks.gauge.Step;
 import driver.Driver;
 import io.appium.java_client.MobileElement;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+
+import java.io.File;
+import java.io.IOException;
 
 public class Login extends Driver{
+
+    @Step("Take a screenshot with the name <pictureName>.")
+    public void takesScreenshot(String pictureName) throws IOException {
+            String fileName = "images/"+(pictureName)+".png";
+            File file = new File("reports/html-report/"+fileName);
+            if(file.exists()) {
+                file.delete();
+            }
+            File scrFile = ((TakesScreenshot)appiumDriver).getScreenshotAs(OutputType.FILE);
+            FileUtils.copyFile(scrFile, file);
+            Gauge.writeMessage("<img src='../"+fileName+"' width='800' height='480'");
+
+    }
 
     @Step("Hesabım kısmına tıklanır.")
     public void clickSearch() {
@@ -32,6 +52,8 @@ public class Login extends Driver{
         MobileElement elementLoginClick = (MobileElement) appiumDriver.findElementById("loginBtn");
         elementLoginClick.click();
     }
+
+
 
 
     //CAPTCHA'ya atacağı için senaryo burada sonlandırılır.

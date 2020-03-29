@@ -9,6 +9,7 @@ Login Senaryosu
 
 Arama Senaryosu
 ---------------
+* Take a screenshot with the name "senaryo".
 * Arama alanına gidilir, "telefon" yazılır, açılan sekmeye tıklanır
 
 Arama Senaryosundaki ürünü sepete ekle
@@ -22,3 +23,7 @@ Kategori senaryosu
 * Retro konsolu kısmına tıklanır
 * Tetris kısmına tıklanır
 * Gelen listeden konsol ürünü seçilir
+
+Tüm Fırsatlar
+--------------
+* Tüm fırsatlar butonuna tıklanır
