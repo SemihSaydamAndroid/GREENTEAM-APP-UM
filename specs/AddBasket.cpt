@@ -1,12 +1,21 @@
 Created by Mac on 28.03.2020
 
-This is a concept file with following syntax for each concept.
+
+Semih saydam - Sorularınız için Linkedin üzerinden bana ulaşabilirsiniz.
 # Arama alanına <key> yazılır ardından gelen ürünlerden biri seçilir, <adet> sepete eklenir
 
 * Arama alanına tıklanır
+* Ekran görüntüsü al ve "1" ismiyle kaydet
 * Arama alanına <key> değeri girilir.
+* Ekran görüntüsü al ve "2" ismiyle kaydet
 * Açılan sekmeye tıklanır
+* Ekran görüntüsü al ve "3" ismiyle kaydet
 * Açılan ürünlerden ilk ürün seçilir
+* Ekran görüntüsü al ve "4" ismiyle kaydet
 * Üründen <adet> adet ekle
+* Ekran görüntüsü al ve "5" ismiyle kaydet
 * Sepete ekle butonuna basılır
+* Ekran görüntüsü al ve "6" ismiyle kaydet
 * Sepetim sekmesine gidilir
+* Ekran görüntüsü al ve "7" ismiyle kaydet
+

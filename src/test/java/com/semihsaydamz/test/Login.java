@@ -13,7 +13,7 @@ import java.io.IOException;
 
 public class Login extends Driver{
 
-    @Step("Take a screenshot with the name <pictureName>.")
+    @Step("Ekran görüntüsü al ve <pictureName> ismiyle kaydet")
     public void takesScreenshot(String pictureName) throws IOException {
             String fileName = "images/"+(pictureName)+".png";
             File file = new File("reports/html-report/"+fileName);
