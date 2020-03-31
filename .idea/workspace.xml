@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="commitLasst">
-      <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SemihSaydamz/specs/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/SemihSaydamz/specs/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/beşinciAdım.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/dördüncüAdım.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/ikinciAdım.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/ilkAdım.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/oldumuya.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/senaryo Bitimi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/üçüncüAdım.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/AddBasket.cpt" beforeDir="false" afterPath="$PROJECT_DIR$/specs/AddBasket.cpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/StepImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
