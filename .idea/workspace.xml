@@ -4,6 +4,7 @@
     <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="commitLasst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/semihsaydamz/test/AddToBasket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,10 +350,10 @@
     </state>
     <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585497014005" />
     <state x="328" y="121" key="SettingsEditor/0.23.1680.971@0.23.1680.971" timestamp="1585385851644" />
-    <state x="517" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1585697124547">
+    <state x="517" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1585771053543">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="517" y="328" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585697124547" />
+    <state x="517" y="328" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585771053543" />
     <state x="517" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.971@0.23.1680.971" timestamp="1585380149016" />
     <state x="298" y="282" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1585419109040">
       <screen x="0" y="0" width="1680" height="1050" />

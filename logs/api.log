@@ -4137,3 +4137,15 @@
 01-04-2020 02:25:46.664 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Ekran g\303\266r\303\274nt\303\274s\303\274 al ve {} ismiyle kaydet" parameterizedStepValue:"* Ekran g\303\266r\303\274nt\303\274s\303\274 al ve <1> ismiyle kaydet" parameters:"1" > > 
 01-04-2020 02:25:46.664 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Sepetim sekmesine gidilir" > 
 01-04-2020 02:25:46.664 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Sepetim sekmesine gidilir" parameterizedStepValue:"* Sepetim sekmesine gidilir" > > 
+01-04-2020 22:57:19.553 [Gauge] [INFO] Watching directory: /Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs
+01-04-2020 22:57:19.553 [Gauge] [DEBUG] Found 4 files
+01-04-2020 22:57:19.574 [Gauge] [INFO] Initializing concepts cache with 3 concepts
+01-04-2020 22:57:19.574 [Gauge] [DEBUG] Adding concepts from /Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/Login.cpt
+01-04-2020 22:57:19.574 [Gauge] [DEBUG] Adding concepts from /Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/Search.cpt
+01-04-2020 22:57:19.574 [Gauge] [DEBUG] Adding concepts from /Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/AddBasket.cpt
+01-04-2020 22:57:19.577 [Gauge] [INFO] Initializing specs cache with 1 specs
+01-04-2020 22:57:19.577 [Gauge] [DEBUG] Adding specs from /Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/example.spec
+01-04-2020 22:57:19.577 [Gauge] [INFO] Initializing steps cache with 4 steps
+01-04-2020 22:57:19.577 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53227
+01-04-2020 22:57:51.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274nden <key> adet ekle" > 
+01-04-2020 22:57:51.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274nden {} adet ekle" parameterizedStepValue:"\303\234r\303\274nden <key> adet ekle" parameters:"key" > > 
