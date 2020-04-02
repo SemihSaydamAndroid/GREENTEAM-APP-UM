@@ -4116,3 +4116,441 @@ Total time taken: 30.534s
 01-04-2020 00:10:03.789 [Gauge] [INFO] 
 Total time taken: 1m18.25s
 01-04-2020 00:10:03.790 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+02-04-2020 11:42:42.373 [Gauge] [DEBUG] Plugin java is already installed.
+02-04-2020 11:42:42.374 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-04-2020 11:42:42.574 [java] [DEBUG] classpath set to /Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz/target/test-classes:/Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz/target/classes:/Users/Mac/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.2/gauge-java-0.7.2.jar:/Users/Mac/.m2/repository/com/github/javaparser/javaparser-core/2.5.1/javaparser-core-2.5.1.jar:/Users/Mac/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/Mac/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/Mac/.m2/repository/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar:/Users/Mac/.m2/repository/com/google/guava/guava/24.0-jre/guava-24.0-jre.jar:/Users/Mac/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/Mac/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/Mac/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/Mac/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/Mac/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/Mac/.m2/repository/io/grpc/grpc-netty-shaded/1.13.1/grpc-netty-shaded-1.13.1.jar:/Users/Mac/.m2/repository/io/grpc/grpc-core/1.13.1/grpc-core-1.13.1.jar:/Users/Mac/.m2/repository/io/grpc/grpc-context/1.13.1/grpc-context-1.13.1.jar:/Users/Mac/.m2/repository/io/opencensus/opencensus-api/0.12.3/opencensus-api-0.12.3.jar:/Users/Mac/.m2/repository/io/opencensus/opencensus-contrib-grpc-metrics/0.12.3/opencensus-contrib-grpc-metrics-0.12.3.jar:/Users/Mac/.m2/repository/io/grpc/grpc-protobuf/1.13.1/grpc-protobuf-1.13.1.jar:/Users/Mac/.m2/repository/com/google/api/grpc/proto-google-common-protos/1.0.0/proto-google-common-protos-1.0.0.jar:/Users/Mac/.m2/repository/io/grpc/grpc-protobuf-lite/1.13.1/grpc-protobuf-lite-1.13.1.jar:/Users/Mac/.m2/repository/io/grpc/grpc-stub/1.13.1/grpc-stub-1.13.1.jar:/Users/Mac/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/Mac/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/Mac/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/Mac/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/Mac/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/Mac/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/Mac/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/Mac/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/Mac/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/Mac/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/Mac/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar:/Users/Mac/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar:/Users/Mac/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/Mac/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/Mac/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/Mac/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/Mac/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/Mac/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/Mac/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/Mac/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar:/Users/Mac/.m2/repository/io/appium/java-client/7.3.0/java-client-7.3.0.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/Mac/.m2/repository/cglib/cglib/3.2.12/cglib-3.2.12.jar:/Users/Mac/.m2/repository/org/ow2/asm/asm/7.1/asm-7.1.jar:/Users/Mac/.m2/repository/commons-validator/commons-validator/1.6/commons-validator-1.6.jar:/Users/Mac/.m2/repository/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar:/Users/Mac/.m2/repository/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar:/Users/Mac/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/Users/Mac/.m2/repository/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar:/Users/Mac/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/Mac/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/Mac/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/Mac/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/Mac/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/Mac/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/Mac/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/Mac/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/Users/Mac/.m2/repository/org/sonarsource/scanner/maven/sonar-maven-plugin/3.6.0.1398/sonar-maven-plugin-3.6.0.1398.jar:/Users/Mac/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar:/Users/Mac/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/Mac/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar:/Users/Mac/.m2/repository/org/sonarsource/scanner/api/sonar-scanner-api/2.12.0.1661/sonar-scanner-api-2.12.0.1661.jar
+02-04-2020 11:42:43.327 [Gauge] [DEBUG] Checking updates...
+02-04-2020 11:42:43.328 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-04-2020 11:42:44.430 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-04-2020 11:42:44.704 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-04-2020 11:42:45.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na <key> de\304\237eri girilir." > 
+02-04-2020 11:42:45.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na {} de\304\237eri girilir." parameterizedStepValue:"Arama alan\304\261na <key> de\304\237eri girilir." parameters:"key" > > 
+02-04-2020 11:42:45.592 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"T\303\274m f\304\261rsatlar butonuna t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.592 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"T\303\274m f\304\261rsatlar butonuna t\304\261klan\304\261r" parameterizedStepValue:"T\303\274m f\304\261rsatlar butonuna t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.593 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap butonuna t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.593 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap butonuna t\304\261klan\304\261r" parameterizedStepValue:"Giri\305\237 yap butonuna t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.593 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kategoriler k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.593 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategoriler k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Kategoriler k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.594 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274nden <key> adet ekle" > 
+02-04-2020 11:42:45.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274nden {} adet ekle" parameterizedStepValue:"\303\234r\303\274nden <key> adet ekle" parameters:"key" > > 
+02-04-2020 11:42:45.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Retro konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Retro konsolu k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Retro konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Arama alan\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete ekle butonuna bas\304\261l\304\261r" > 
+02-04-2020 11:42:45.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete ekle butonuna bas\304\261l\304\261r" parameterizedStepValue:"Sepete ekle butonuna bas\304\261l\304\261r" > > 
+02-04-2020 11:42:45.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim sekmesine gidilir" > 
+02-04-2020 11:42:45.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim sekmesine gidilir" parameterizedStepValue:"Sepetim sekmesine gidilir" > > 
+02-04-2020 11:42:45.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tetris k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.598 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tetris k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Tetris k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.599 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre bilgisi <key> olarak girilir" > 
+02-04-2020 11:42:45.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre bilgisi {} olarak girilir" parameterizedStepValue:"\305\236ifre bilgisi <key> olarak girilir" parameters:"key" > > 
+02-04-2020 11:42:45.599 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<yon> y\303\266n\303\274ne kayd\304\261rma" > 
+02-04-2020 11:42:45.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} y\303\266n\303\274ne kayd\304\261rma" parameterizedStepValue:"<yon> y\303\266n\303\274ne kayd\304\261rma" parameters:"yon" > > 
+02-04-2020 11:42:45.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Gelen listeden konsol \303\274r\303\274n\303\274 se\303\247ilir" > 
+02-04-2020 11:42:45.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Gelen listeden konsol \303\274r\303\274n\303\274 se\303\247ilir" parameterizedStepValue:"Gelen listeden konsol \303\274r\303\274n\303\274 se\303\247ilir" > > 
+02-04-2020 11:42:45.601 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email bilgisi <key> olarak girilir" > 
+02-04-2020 11:42:45.601 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email bilgisi {} olarak girilir" parameterizedStepValue:"Email bilgisi <key> olarak girilir" parameters:"key" > > 
+02-04-2020 11:42:45.601 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A\303\247\304\261lan sekmeye t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.601 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A\303\247\304\261lan sekmeye t\304\261klan\304\261r" parameterizedStepValue:"A\303\247\304\261lan sekmeye t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesab\304\261m k\304\261sm\304\261na t\304\261klan\304\261r." > 
+02-04-2020 11:42:45.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesab\304\261m k\304\261sm\304\261na t\304\261klan\304\261r." parameterizedStepValue:"Hesab\304\261m k\304\261sm\304\261na t\304\261klan\304\261r." > > 
+02-04-2020 11:42:45.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Oyun konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:42:45.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Oyun konsolu k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Oyun konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:42:45.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A\303\247\304\261lan \303\274r\303\274nlerden ilk \303\274r\303\274n se\303\247ilir" > 
+02-04-2020 11:42:45.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A\303\247\304\261lan \303\274r\303\274nlerden ilk \303\274r\303\274n se\303\247ilir" parameterizedStepValue:"A\303\247\304\261lan \303\274r\303\274nlerden ilk \303\274r\303\274n se\303\247ilir" > > 
+02-04-2020 11:42:45.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ekran g\303\266r\303\274nt\303\274s\303\274 al ve <pictureName> ismiyle kaydet" > 
+02-04-2020 11:42:45.607 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ekran g\303\266r\303\274nt\303\274s\303\274 al ve {} ismiyle kaydet" parameterizedStepValue:"Ekran g\303\266r\303\274nt\303\274s\303\274 al ve <pictureName> ismiyle kaydet" parameters:"pictureName" > > 
+02-04-2020 11:42:47.297 [Gauge] [INFO] # Semih Saydam
+02-04-2020 11:42:47.301 [Gauge] [INFO] ## Login Senaryosu
+02-04-2020 11:42:49.951 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:42:49.951 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:42:49.951 [Gauge] [INFO] ## Arama Senaryosu
+02-04-2020 11:42:50.663 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:42:50.663 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:42:50.664 [Gauge] [INFO] ## Arama Senaryosundaki ürünü sepete ekle
+02-04-2020 11:42:51.271 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:42:51.271 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:42:51.271 [Gauge] [INFO] ## Kategori senaryosu
+02-04-2020 11:42:51.859 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:42:51.859 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:42:51.859 [Gauge] [INFO] ## Tüm Fırsatlar
+02-04-2020 11:42:53.081 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:42:53.081 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:42:54.268 [Gauge] [INFO] Closing connection [127.0.0.1:50564] cause: read tcp 127.0.0.1:50561->127.0.0.1:50564: read: connection reset by peer
+02-04-2020 11:42:54.339 [Gauge] [DEBUG] Plugin [Html Report] with pid [9180] has exited
+02-04-2020 11:42:54.817 [Gauge] [INFO] Closing connection [127.0.0.1:50559] cause: EOF
+02-04-2020 11:42:54.886 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+02-04-2020 11:42:54.886 [Gauge] [INFO] Scenarios:	5 executed	0 passed	5 failed	0 skipped
+02-04-2020 11:42:54.887 [Gauge] [INFO] 
+Total time taken: 6.123s
+02-04-2020 11:42:54.888 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+02-04-2020 11:46:55.200 [Gauge] [DEBUG] Plugin java is already installed.
+02-04-2020 11:46:55.203 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-04-2020 11:46:55.404 [java] [DEBUG] classpath set to /Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz/target/test-classes:/Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz/target/classes:/Users/Mac/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.2/gauge-java-0.7.2.jar:/Users/Mac/.m2/repository/com/github/javaparser/javaparser-core/2.5.1/javaparser-core-2.5.1.jar:/Users/Mac/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/Mac/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/Mac/.m2/repository/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar:/Users/Mac/.m2/repository/com/google/guava/guava/24.0-jre/guava-24.0-jre.jar:/Users/Mac/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/Mac/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/Mac/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/Mac/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/Mac/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/Mac/.m2/repository/io/grpc/grpc-netty-shaded/1.13.1/grpc-netty-shaded-1.13.1.jar:/Users/Mac/.m2/repository/io/grpc/grpc-core/1.13.1/grpc-core-1.13.1.jar:/Users/Mac/.m2/repository/io/grpc/grpc-context/1.13.1/grpc-context-1.13.1.jar:/Users/Mac/.m2/repository/io/opencensus/opencensus-api/0.12.3/opencensus-api-0.12.3.jar:/Users/Mac/.m2/repository/io/opencensus/opencensus-contrib-grpc-metrics/0.12.3/opencensus-contrib-grpc-metrics-0.12.3.jar:/Users/Mac/.m2/repository/io/grpc/grpc-protobuf/1.13.1/grpc-protobuf-1.13.1.jar:/Users/Mac/.m2/repository/com/google/api/grpc/proto-google-common-protos/1.0.0/proto-google-common-protos-1.0.0.jar:/Users/Mac/.m2/repository/io/grpc/grpc-protobuf-lite/1.13.1/grpc-protobuf-lite-1.13.1.jar:/Users/Mac/.m2/repository/io/grpc/grpc-stub/1.13.1/grpc-stub-1.13.1.jar:/Users/Mac/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/Mac/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/Mac/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/Mac/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/Mac/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/Mac/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/Mac/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/Mac/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/Mac/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/Mac/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/Mac/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar:/Users/Mac/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar:/Users/Mac/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/Mac/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/Mac/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/Mac/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/Mac/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/Mac/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/Mac/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/Mac/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar:/Users/Mac/.m2/repository/io/appium/java-client/7.3.0/java-client-7.3.0.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/Mac/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/Mac/.m2/repository/cglib/cglib/3.2.12/cglib-3.2.12.jar:/Users/Mac/.m2/repository/org/ow2/asm/asm/7.1/asm-7.1.jar:/Users/Mac/.m2/repository/commons-validator/commons-validator/1.6/commons-validator-1.6.jar:/Users/Mac/.m2/repository/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar:/Users/Mac/.m2/repository/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar:/Users/Mac/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/Users/Mac/.m2/repository/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.jar:/Users/Mac/.m2/repository/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar:/Users/Mac/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/Mac/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/Mac/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/Mac/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/Mac/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/Mac/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/Mac/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/Mac/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/Users/Mac/.m2/repository/org/sonarsource/scanner/maven/sonar-maven-plugin/3.6.0.1398/sonar-maven-plugin-3.6.0.1398.jar:/Users/Mac/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar:/Users/Mac/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/Mac/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar:/Users/Mac/.m2/repository/org/sonarsource/scanner/api/sonar-scanner-api/2.12.0.1661/sonar-scanner-api-2.12.0.1661.jar
+02-04-2020 11:46:56.053 [Gauge] [DEBUG] Checking updates...
+02-04-2020 11:46:56.055 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-04-2020 11:46:57.043 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-04-2020 11:46:57.317 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+02-04-2020 11:46:58.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na <key> de\304\237eri girilir." > 
+02-04-2020 11:46:58.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na {} de\304\237eri girilir." parameterizedStepValue:"Arama alan\304\261na <key> de\304\237eri girilir." parameters:"key" > > 
+02-04-2020 11:46:58.420 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"T\303\274m f\304\261rsatlar butonuna t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.420 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"T\303\274m f\304\261rsatlar butonuna t\304\261klan\304\261r" parameterizedStepValue:"T\303\274m f\304\261rsatlar butonuna t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap butonuna t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.421 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap butonuna t\304\261klan\304\261r" parameterizedStepValue:"Giri\305\237 yap butonuna t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.422 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kategoriler k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.422 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategoriler k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Kategoriler k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.423 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274nden <key> adet ekle" > 
+02-04-2020 11:46:58.423 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274nden {} adet ekle" parameterizedStepValue:"\303\234r\303\274nden <key> adet ekle" parameters:"key" > > 
+02-04-2020 11:46:58.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Retro konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Retro konsolu k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Retro konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Arama alan\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete ekle butonuna bas\304\261l\304\261r" > 
+02-04-2020 11:46:58.426 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete ekle butonuna bas\304\261l\304\261r" parameterizedStepValue:"Sepete ekle butonuna bas\304\261l\304\261r" > > 
+02-04-2020 11:46:58.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepetim sekmesine gidilir" > 
+02-04-2020 11:46:58.426 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepetim sekmesine gidilir" parameterizedStepValue:"Sepetim sekmesine gidilir" > > 
+02-04-2020 11:46:58.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tetris k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tetris k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Tetris k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre bilgisi <key> olarak girilir" > 
+02-04-2020 11:46:58.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre bilgisi {} olarak girilir" parameterizedStepValue:"\305\236ifre bilgisi <key> olarak girilir" parameters:"key" > > 
+02-04-2020 11:46:58.431 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<yon> y\303\266n\303\274ne kayd\304\261rma" > 
+02-04-2020 11:46:58.431 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} y\303\266n\303\274ne kayd\304\261rma" parameterizedStepValue:"<yon> y\303\266n\303\274ne kayd\304\261rma" parameters:"yon" > > 
+02-04-2020 11:46:58.432 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Gelen listeden konsol \303\274r\303\274n\303\274 se\303\247ilir" > 
+02-04-2020 11:46:58.432 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Gelen listeden konsol \303\274r\303\274n\303\274 se\303\247ilir" parameterizedStepValue:"Gelen listeden konsol \303\274r\303\274n\303\274 se\303\247ilir" > > 
+02-04-2020 11:46:58.432 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email bilgisi <key> olarak girilir" > 
+02-04-2020 11:46:58.432 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email bilgisi {} olarak girilir" parameterizedStepValue:"Email bilgisi <key> olarak girilir" parameters:"key" > > 
+02-04-2020 11:46:58.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A\303\247\304\261lan sekmeye t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A\303\247\304\261lan sekmeye t\304\261klan\304\261r" parameterizedStepValue:"A\303\247\304\261lan sekmeye t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesab\304\261m k\304\261sm\304\261na t\304\261klan\304\261r." > 
+02-04-2020 11:46:58.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesab\304\261m k\304\261sm\304\261na t\304\261klan\304\261r." parameterizedStepValue:"Hesab\304\261m k\304\261sm\304\261na t\304\261klan\304\261r." > > 
+02-04-2020 11:46:58.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Oyun konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > 
+02-04-2020 11:46:58.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Oyun konsolu k\304\261sm\304\261na t\304\261klan\304\261r" parameterizedStepValue:"Oyun konsolu k\304\261sm\304\261na t\304\261klan\304\261r" > > 
+02-04-2020 11:46:58.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A\303\247\304\261lan \303\274r\303\274nlerden ilk \303\274r\303\274n se\303\247ilir" > 
+02-04-2020 11:46:58.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A\303\247\304\261lan \303\274r\303\274nlerden ilk \303\274r\303\274n se\303\247ilir" parameterizedStepValue:"A\303\247\304\261lan \303\274r\303\274nlerden ilk \303\274r\303\274n se\303\247ilir" > > 
+02-04-2020 11:46:58.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ekran g\303\266r\303\274nt\303\274s\303\274 al ve <pictureName> ismiyle kaydet" > 
+02-04-2020 11:46:58.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ekran g\303\266r\303\274nt\303\274s\303\274 al ve {} ismiyle kaydet" parameterizedStepValue:"Ekran g\303\266r\303\274nt\303\274s\303\274 al ve <pictureName> ismiyle kaydet" parameters:"pictureName" > > 
+02-04-2020 11:47:00.054 [Gauge] [INFO] # Semih Saydam
+02-04-2020 11:47:00.065 [Gauge] [INFO] ## Login Senaryosu
+02-04-2020 11:47:02.485 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:47:02.485 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:47:02.486 [Gauge] [INFO] ## Arama Senaryosu
+02-04-2020 11:47:03.086 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:47:03.086 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:47:03.086 [Gauge] [INFO] ## Arama Senaryosundaki ürünü sepete ekle
+02-04-2020 11:47:03.591 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:47:03.592 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:47:03.592 [Gauge] [INFO] ## Kategori senaryosu
+02-04-2020 11:47:04.125 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:47:04.126 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:47:04.126 [Gauge] [INFO] ## Tüm Fırsatlar
+02-04-2020 11:47:04.665 [Gauge] [ERROR] Error Message: org.openqa.selenium.WebDriverException: Connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Semihs-Macbook.local', ip: 'fe80:0:0:0:185b:d2cd:4053:d00a%!e(MISSING)n0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '13.0.2'
+Driver info: driver.version: Driver
+02-04-2020 11:47:04.665 [Gauge] [ERROR] Stacktrace: 
+io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)
+java.base/java.util.Optional.orElseGet(Optional.java:362)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:336)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:88)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:98)
+driver.Driver.initializeDriver(Driver.java:34)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:567)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.ScenarioExecutionStartingProcessor.process(ScenarioExecutionStartingProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:83)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:127)
+com.thoughtworks.gauge.GaugeRuntime.lambda$connectSynchronously$1(GaugeRuntime.java:107)
+java.base/java.lang.Thread.run(Thread.java:830)
+02-04-2020 11:47:04.913 [Gauge] [INFO] Closing connection [127.0.0.1:50796] cause: read tcp 127.0.0.1:50793->127.0.0.1:50796: read: connection reset by peer
+02-04-2020 11:47:04.976 [Gauge] [DEBUG] Plugin [Html Report] with pid [9478] has exited
+02-04-2020 11:47:05.421 [Gauge] [INFO] Closing connection [127.0.0.1:50787] cause: EOF
+02-04-2020 11:47:05.489 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+02-04-2020 11:47:05.489 [Gauge] [INFO] Scenarios:	5 executed	0 passed	5 failed	0 skipped
+02-04-2020 11:47:05.490 [Gauge] [INFO] 
+Total time taken: 4.788s
+02-04-2020 11:47:05.491 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.

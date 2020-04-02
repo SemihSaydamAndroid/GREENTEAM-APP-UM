@@ -1,11 +1,13 @@
 {
 	"Args": [
 		"run",
-		"--machine-readable",
-		"--hide-suggestion",
-		"--simple-console"
+		"--dir=/Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz"
 	],
 	"FailedItems": [
-		"/Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/example.spec:14"
+		"specs/example.spec:19",
+		"specs/example.spec:28",
+		"specs/example.spec:6",
+		"specs/example.spec:10",
+		"specs/example.spec:14"
 	]
 }

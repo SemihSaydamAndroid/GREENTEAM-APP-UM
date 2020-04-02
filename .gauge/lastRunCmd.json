@@ -1,8 +1,6 @@
 [
-	"/usr/local/bin/gauge",
+	"gauge",
 	"run",
-	"--machine-readable",
-	"--hide-suggestion",
-	"--simple-console",
-	"/Users/Mac/Desktop/testForMedium/testForMedium/SemihSaydamz/specs/example.spec:14"
+	"--dir=/Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz",
+	"/Users/Mac/Desktop/Projects/testForMedium/testForMedium/SemihSaydamz/specs"
 ]
