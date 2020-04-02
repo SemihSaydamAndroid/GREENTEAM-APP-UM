@@ -6,7 +6,7 @@ import io.appium.java_client.MobileElement;
 import static Constants.Constants.*;
 
 public class AddToBasket extends Driver {
-///////
+/////
     @Step("Üründen <key> adet ekle")
     public void increaseProduct(String key) {
         if (key.equals("iki")) {
