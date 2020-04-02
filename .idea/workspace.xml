@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ce0663-d439-45af-8352-e8da96930901" name="Default Changelist" comment="commitLasst">
-      <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint-state.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint-state.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0034914febd977bd0223309af58537af4dfc95a2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/011acf4faecffae0e47b7132789da0b9ab3850d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15bcbe065b032b86bd0e8d5fe88400137e6799d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/190dfa29f7e05b1da4037f88265c7c0ed9409eae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1961a987b7bd718bc0b6dd6d1c5178fde9b15484" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c48ce75e06be133f72fde40c47ca6ca4389646d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2226f18e87723eec77271bca81646b63c8932d4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23b0e1ee3d3f0de2711ef83eac0829e76ae2b4d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b132a57fd9cc08214b16a60ea72645a3ce78fa7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/376be12b922c2487fdf7bf8fefacc3c69fd76b63" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3ae8aa7a16c0777946c51c914c82f8367603c243" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4043c531da787fa70a2c4bd5ac3083f20abbabdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/498b06da6968e5aa63c9866cdbacbf66f1a2d6fd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/505290d156c340150ce13a7dcd1ab2f640c3189e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/510920d75196cd0d1b64f80005df0d23759f720a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/522d3636cffff54cb22f838ff6c241350e7b7cad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61206d1e928e8aa1becd18e30199531329c4bf8b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/669b399f6fd61cc39e119a9a09a5d580dc43d176" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73b261a4571c68c5f6000d42899c0c97c7fb799a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c3f893d330101b470c5ce8b5dbaff72edb598c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e1884d6542f7f18ab7f13723d22b69399f1ff9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7ea024d7bef54ad28fb78d467029d4a91e218f5d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/8586759ce568178ed4fba19eac7fef1fdcd98167" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89e95d23a976abec02f7007a06867804a272983e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/932a56039cabb06bf15ff5c5a52fccb34c49fb42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a50dd9de6b381ab8d83f7b030e4f88413dec6e0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5ad9f251895d333423cf746d260dadda8954a5c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9eb0b02f493ed344b2524ffb8e5cae5e303f4af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b249cb9493ee8ed915611bd8f737687d10603f91" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be99ea2023f884f91e3da86a750ba2e226133f56" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bed1ba79d23c06c099a52b2e6ad8cfaf32e62e3e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf2544b1e327aead5fc616ee9fcb2415688d69a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5f26151ed7458386609c0b875f9cec0533f3bf1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c62fe94dd24ac3fc3798828673d9419c3d868d6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca4b053ef78c9dbc9aac849d00e135b9e07db271" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca642a22686971b261b60de81d8ff554fdd91e2e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea1ee85179f83fd44e2f85d9c459026d57cfc1ba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed7ca300789358ec31b1f84094be280e0de7c704" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f48aafd1e17a08fa32c21ea116186a661cd56788" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fcb0373f00cdb712da79d2ba26e2c3a00342379e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/search_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/specs/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Constants/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/AddToBasket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/StepImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/SwipeCommands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/semihsaydamz/test/TümFırstalar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
